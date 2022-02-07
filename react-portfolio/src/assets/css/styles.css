@@ -1,0 +1,9 @@
+.about-me-pic {
+    max-height: 300px;
+    object-fit: contain;
+    margin-bottom: 3rem;
+};
+
+.about-header {
+    background-color: aqua;
+};
